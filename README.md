@@ -7,6 +7,7 @@ pkg install git
 
 git clone https://github.com/AnsXploit504/ddos.git
 
+cd ddos
 python2 ddos.py
 
 mohon maaf jika gagal 🥲🙏
